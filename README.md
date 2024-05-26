@@ -26,4 +26,5 @@ Bottom 5 Worst Sellers by Total Pizzas Sold: Bar chart showcasing the bottom 5 w
 Data Analysis: Use SQL to calculate the required KPIs from the pizza sales database.
 Visualization: Use Tableau to create the specified charts by connecting to the SQL database and importing the data.
 
+# Conclusion:
 By analyzing the pizza sales data using SQL and visualizing the results with Tableau, you will gain valuable insights into the business's performance and identify trends to make data-driven decisions.
