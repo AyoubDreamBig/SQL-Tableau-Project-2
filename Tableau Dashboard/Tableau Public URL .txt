@@ -1,0 +1,2 @@
+Pizza Shop Dashboard 1 : https://public.tableau.com/app/profile/ayoub.chekour/viz/PizzaShopDashboard1/Dashboard1?publish=yes
+Pizza Shop Dashboard 2 : https://public.tableau.com/app/profile/ayoub.chekour/viz/PizzaShopDashboard2/Dashboard2?publish=yes
